@@ -98,7 +98,7 @@ bookList.innerHTML += '<h2>This is how you add HTML</h2>';
 
 
 
-#### To find parent node
+#### parentNode
 
       const bookList = document.querySelector("#book-list");
 
@@ -130,7 +130,7 @@ bookList.innerHTML += '<h2>This is how you add HTML</h2>';
       // You can chain the properties and methods together
 
 
-#### EVENT LISTENERS
+#### EventListeners
 
       const h2 = document.querySelector('#book-list h2');
 
@@ -163,7 +163,7 @@ bookList.innerHTML += '<h2>This is how you add HTML</h2>';
         console.log('Navigation to ', e.target.textContent, ' was prevented');
       });
 
-#### Lesson #10:
+#### Aula 10:
 // Attaching event listeners to the ul instead of each li for efficiency
     
         // Adding an event listener to each li is "expensive" and inefficient
