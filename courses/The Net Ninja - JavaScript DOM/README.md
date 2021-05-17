@@ -1,5 +1,5 @@
 <div align="center">
- <img width=50% src="https://www.filepicker.io/api/file/JIGkr7PVQeuw9rcBtGuB">
+ <img width=25% src="https://www.filepicker.io/api/file/JIGkr7PVQeuw9rcBtGuB">
 </div>
 
 <div align="center">
