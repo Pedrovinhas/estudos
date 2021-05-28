@@ -2,3 +2,4 @@
 🗂 Nesse repositório irei documentar meus estudos em Front-End e Back-End, assim como cada tecnologia que estou aprendendo
 
 ---
+<blockquote> Feito por Pedro Henrique Vinhas 🪐 </blockquote>
