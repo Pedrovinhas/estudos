@@ -1,16 +1,35 @@
-## Internet
+# Internet
 
-### 📁 **How does Internet Work**
+## ✨ Recomendações 
+### **Cursos**
+
+| Título      | Idioma   | Status  | 
+| ---------- | :------: | :-----: | 
+| [Discover - Conectar](https://app.rocketseat.com.br/discover/trails/conectar)  | 🇧🇷 | ✔  
+| [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia) |  🇺🇸  |  ✔  
+
+### **Onde hospedar meu site?**
+| Gratuito  |
+| ---------- | 
+| [Vercel](https://vercel.com/dashboard)  | 
+| [Heroku](https://www.heroku.com/)  | 
+| [Netlify](https://www.netlify.com/)  | 
+| [Github Pages](https://pages.github.com/)  | 
+
+
+## 🔍 Índice
+### 📁 **Como a Internet funciona?**
 
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
 | [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet) | Artigo | 🇧🇷 | ✔  |
 | [How Does Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) | Artigo | 🇺🇸  |  ✔  |
 | [What is Internet?](https://roadmap.sh/guides/what-is-internet) | Vídeo | 🇺🇸   |  ✔  |
-| [How Does Internet Work?](https://www.youtube.com/watch?v=x3c1ih2NJEg&ab_channel=Lesics) | Artigo | 🇺🇸   |  ✔  |
-| [How Does Internet Works in 5 minutes](https://www.youtube.com/watch?v=7_LPdttKXPc&ab_channel=Aaron) | Artigo | 🇺🇸  |  ✔  |
+| [How Does Internet Work?](https://www.youtube.com/watch?v=x3c1ih2NJEg&ab_channel=Lesics) | Vídeo | 🇺🇸   |  ✔  |
+| [How Does Internet Works in 5 minutes](https://www.youtube.com/watch?v=7_LPdttKXPc&ab_channel=Aaron) | Vídeo | 🇺🇸  |  ✔  |
 
-### 📁 **What is HTTP?**
+
+### 📁 **O que é HTTP?**
 
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
@@ -18,9 +37,9 @@
 | [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) | Artigo | 🇺🇸  |  ✔  |
 | [Journey to HTTP/2](https://kamranahmed.info/blog/2016/08/13/http-in-depth/) | Artigo | 🇺🇸  |  ✔  |
 | [HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/) | Artigo | 🇺🇸  |  ✔  |
-| [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia) | Curso | 🇺🇸  |  ✔  |
 
-### 📁 **Browsers and how they work?**
+
+### 📁 **Browsers e como funcionam?**
 
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
@@ -30,7 +49,7 @@
 | [Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work) | Documentação | 🇺🇸  |  ❌  |
 | [How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0&ab_channel=DaveXiang) | Vídeo | 🇺🇸  |  |
 
-### 📁 **DNS and how they works?**
+### 📁 **DNS e como funcionam?**
 
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
@@ -38,7 +57,7 @@
 | [DNS and How does it work?](https://www.youtube.com/watch?v=Wj0od2ag5sk&ab_channel=theroadmap) | Vídeo | 🇺🇸  |  ❌  |
 | [DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY&ab_channel=theroadmap) | Vídeo | 🇺🇸  |  ❌ |
 
-### 📁 **What is Domain Name?**
+### 📁 **O que é Domain Name?**
 
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
@@ -47,7 +66,7 @@
 | [A Beginners Guide to How Domain Names Work](https://www.youtube.com/watch?v=Y4cRx19nhJk&ab_channel=CreateaProWebsite) | Vídeo | 🇺🇸  |  ❌ |
 
 
-### 📁 **What is hosting?**
+### 📁 **O que é hosting?**
 
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
