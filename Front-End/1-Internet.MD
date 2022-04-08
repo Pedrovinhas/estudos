@@ -3,10 +3,10 @@
 ## ✨ Recomendações 
 ### **Cursos**
 
-| Título      | Idioma   | Status  | 
-| ---------- | :------: | :-----: | 
-| [Discover - Conectar](https://app.rocketseat.com.br/discover/trails/conectar)  | 🇧🇷 | ✔  
-| [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia) |  🇺🇸  |  ✔  
+| Título      | Idioma   | Status  | Conteúdos  | 
+| ---------- | :------: | :-----: | ------- | 
+| [Discover - Conectar](https://app.rocketseat.com.br/discover/trails/conectar)  | 🇧🇷 | ✔  | ``Internet, HTTP, Browser, DNS``
+| [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia) |  🇺🇸  |  ✔  |  ``HTTP``
 
 ### **Onde hospedar meu site?**
 | Gratuito  |
