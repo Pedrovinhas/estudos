@@ -10,7 +10,7 @@ Esse Roadmap foi tirado do site [Roadmap](https://roadmap.sh/frontend) e adicion
 | ---------- | :-----: |
 | [Internet](./1-Internet.MD) |  ❌   |
 | [HTML](./2-HTML.md)  |  ❌   |
-| [CSS]()  | ❌   |
+| [CSS](./3-CSS.md)  | ❌   |
 | [Javascript]()  | ❌   |
 | [Version Control System]()  | ❌   |
 | [Repo Hosting Services]()  | ❌   |
