@@ -1,14 +1,15 @@
 # Roadmap
 
 ## 📝 Introdução
+
 Esse Roadmap foi tirado do site [Roadmap](https://roadmap.sh/frontend) e adicionado conteúdos também em Português. Você pode fazer um fork e ir acompanhando seu progresso de acordo com os estudos.
 
-## 🔍 Índice 
+## 🔍 Índice
 
-| Título      |  Status | 
-| ---------- | :-----: | 
-| [Internet](./1-Internet.MD) |  ✔   | 
-| [HTML]()  |  ❌   |
+| Título      |  Status |
+| ---------- | :-----: |
+| [Internet](./1-Internet.MD) |  ❌   |
+| [HTML](./2-HTML.md)  |  ❌   |
 | [CSS]()  | ❌   |
 | [Javascript]()  | ❌   |
 | [Version Control System]()  | ❌   |
@@ -38,6 +39,9 @@ Esse Roadmap foi tirado do site [Roadmap](https://roadmap.sh/frontend) e adicion
 | [Desktop Applications]()   | ❌   |
 | [Web Assembly]()  | ❌   |
 
-
+## 🔨 Futuramente...
+- [] Adicionar tempo de duração dos cursos
+- [] Adicionar tabela de conteúdo em cada tópico.
 ## 🌟 Créditos
+
 Todos os créditos vão para [Kamran Ahmed](https://github.com/kamranahmedse) pela criação dessa lista.
