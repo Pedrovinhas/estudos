@@ -33,11 +33,14 @@
 
 ### 📁 **Posicionamento no CSS**
 
+| Conteúdo      | 
+| ---------- |
+| ``Float, Positioning, Display, Box Model, CSS Grid, Flex Box`` |
+
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
 | [All About Floats](https://css-tricks.com/all-about-floats/) | Artigo | 🇺🇸 | ❌ |
 | [Positioning Types: How Do They Differ?](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) | Artigo | 🇺🇸 | ❌ |
 | [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | Documentação | 🇺🇸 | ❌ |
 | [The CSS Display Property](https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/) | Documentação | 🇺🇸 | ❌ |
-
 
