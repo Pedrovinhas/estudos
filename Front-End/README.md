@@ -40,8 +40,8 @@ Esse Roadmap foi tirado do site [Roadmap](https://roadmap.sh/frontend) e adicion
 | [Web Assembly]()  | ❌   |
 
 ## 🔨 Futuramente...
-- [] Adicionar tempo de duração dos cursos
-- [] Adicionar tabela de conteúdo em cada tópico.
+- [ ] Adicionar tempo de duração dos cursos
+- [ ] Adicionar tabela de conteúdo em cada tópico.
 ## 🌟 Créditos
 
 Todos os créditos vão para [Kamran Ahmed](https://github.com/kamranahmedse) pela criação dessa lista.
