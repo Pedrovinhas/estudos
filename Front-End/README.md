@@ -41,7 +41,7 @@ Esse Roadmap foi tirado do site [Roadmap](https://roadmap.sh/frontend) e adicion
 
 ## 🔨 Futuramente...
 - [ ] Adicionar tempo de duração dos cursos
-- [ ] Adicionar tabela de conteúdo em cada tópico.
+- [ ] Adicionar tabela de conteúdo em cada tópico referenciando os tópicos maiores em vez dos assuntos em si.
 ## 🌟 Créditos
 
 Todos os créditos vão para [Kamran Ahmed](https://github.com/kamranahmedse) pela criação dessa lista.
