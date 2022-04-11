@@ -4,11 +4,11 @@
 
 ### 📁 **Cursos**
 
-| Título      | Tipo | Idioma      | Status  |
-| ---------- | ---------- | :------: | :-----: |
-| [HTML and CSS Tutorial 2021](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) | Curso | 🇺🇸 | ❌ |
-| [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA&ab_channel=ChrisCourses) | Curso | 🇺🇸 | ❌ |
-
+| Título      | Tipo | Idioma      | Status  |  Conteúdos  | 
+| ---------- | ---------- | :------: | :-----: | ------- | 
+| [HTML and CSS Tutorial 2021](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) | Curso | 🇺🇸 | ❌ | ``Responsividade, CSS, Variáveis, Construção de site`` | 
+| [CSS Masterclass - Tutorial & Course for Beginners](https://www.youtube.com/watch?v=FqmB-Zj2-PA&ab_channel=ChrisCourses) | Curso | 🇺🇸 | ❌ | ``Background, Reset CSS, Displays, Flex-Box, Margin, padding, typographic, em, rem etc.``
+| [Nem só de classes ou IDs](https://app.rocketseat.com.br/node/nem-so-de-classes-ou-i-ds/group/selectors-and-combinators/lesson/100-intro) | Mini-curso | 🇧🇷 | ✔ | ``Seletores, Combinators, Pseudo-classes e Pseudo-Elements`` 
 ### 📁 **Praticando**
 
 | Título      | Tipo | Idioma      | Status  |
@@ -44,3 +44,8 @@
 | [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | Documentação | 🇺🇸 | ❌ |
 | [The CSS Display Property](https://www.freecodecamp.org/news/the-css-display-property-display-none-display-table-inline-block-and-more/) | Documentação | 🇺🇸 | ❌ |
 
+### 📁 **Pseudo-elements e Pseudo-Classes**
+| Título      | Tipo | Idioma      | Status  |
+| ---------- | ---------- | :------: | :-----: |
+| [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) | Documentação | 🇺🇸 | ❌ |
+| [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) | Documentação | 🇺🇸 | ❌ |
