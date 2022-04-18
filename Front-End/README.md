@@ -8,10 +8,10 @@ Esse Roadmap foi tirado do site [Roadmap](https://roadmap.sh/frontend) e adicion
 
 | Título      |  Status |
 | ---------- | :-----: |
-| [Internet](./1-Internet.MD) |  ❌   |
+| [Internet](./1-Internet.md) |  ❌   |
 | [HTML](./2-HTML.md)  |  ❌   |
 | [CSS](./3-CSS.md)  | ❌   |
-| [Javascript]()  | ❌   |
+| [Javascript](./4-Javascript.md)  | ❌   |
 | [Version Control System]()  | ❌   |
 | [Repo Hosting Services]()  | ❌   |
 | [Basic Usage of Git]()   | ❌   |
