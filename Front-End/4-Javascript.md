@@ -1,4 +1,4 @@
-# HTML
+# Javascript
 
 ## 🔍 Índice
 
