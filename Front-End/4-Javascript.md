@@ -1,12 +1,13 @@
-# HTML
+# Javascript
 
 ## 🔍 Índice
 
-### 📁 Praticando
+### 📁 **Cursos**
 | Título      | Tipo | Idioma      | Status  |
 | ---------- | ---------- | :------: | :-----: |
 | [Build a Netflix Landing Page Clone](https://www.youtube.com/watch?v=P7t13SGytRk&t=22s&ab_channel=TraversyMedia) | Vídeo  | 🇺🇸 | ✔ |
 
+### 📁 **Praticando**
 ### 📁 **Sintaxe e conteúdo básico**
 
 | Título      | Tipo | Idioma      | Status  |

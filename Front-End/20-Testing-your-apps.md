@@ -2,6 +2,10 @@
 
 ## 🔍 Índice
 
+### 📁 **Bibliotecas de Teste**
+| Título      | 
+| ---------- |
+ | [Mocha](https://mochajs.org/) |
 ### 📁 **Cursos**
 
 | Título      | Tipo | Idioma      | Status  | 
